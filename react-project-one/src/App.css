@@ -1,0 +1,13 @@
+.nav{
+  background-color: rgba(200, 217, 219, 0.399);
+  height: 3rem;
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+}
+
+a{
+  margin-top: 0.5rem;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
