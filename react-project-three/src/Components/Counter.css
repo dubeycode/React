@@ -1,0 +1,8 @@
+.comp-container{
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 1.5rem;
+    border: 2px solid black;
+}
